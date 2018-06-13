@@ -18,9 +18,9 @@ h1 {
     list-style-type: none;
 }
 
-#top-banner ul li a {
-    color: white;
+.link {
     font-size: 18px;
+    color: white;
 }
 
 h3 {
@@ -34,5 +34,15 @@ h4 {
 
 p {
     font-size: 14px;
+}
+
+.copyright {
+    font-size: 11px;
+    color: white;
+}
+
+#footer {
+    text-align: left;
+    background-color: dimgray;
 }
 
