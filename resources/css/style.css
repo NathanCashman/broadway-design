@@ -1,10 +1,11 @@
-body {
+html {
     text-align: center;
-    font-family: verdana;
+    font-family: helvetica;
 }
 
 h1 {
-    font-size: 47px;
+    font-size: 70px;
+    font-weight: bold;
 }
 
 #top-banner {
@@ -15,4 +16,18 @@ h1 {
 
 #top-banner ul {
     list-style-type: none;
+}
+
+#top-banner ul li a {
+    color: white;
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 23px;
 }
